@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://geometrydash-ubg.github.io/sitemap.xml
